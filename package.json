@@ -62,7 +62,7 @@
     "lint-staged": "^10.0.2",
     "node-sass": "^4.13.0",
     "prettier": "^1.19.1",
-    "react-scripts": "^3.2.0",
+    "react-scripts": "^5.0.1",
     "rollup": "^0.68.2",
     "rollup-plugin-babel": "^4.0.1",
     "rollup-plugin-bundle-size": "^1.0.3",
